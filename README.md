@@ -19,8 +19,6 @@
 :heavy_check_mark: Adicionar cupom de desconto e então gerar pedido. 
 </p>
 
-<br>
-
 ## Exemplo de Implementação :checkered_flag:
 
 ![alt-text](https://raw.githubusercontent.com/omahin/Aula-05/master/img/projetocarrinhodecompras.gif)
