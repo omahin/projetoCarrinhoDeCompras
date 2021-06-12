@@ -5,7 +5,6 @@
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/omahin/Aula-05/master/2981e539df15c5ff22d82c71b1e8c2bb7f3060c5)
 
 <br>
----
 
 ---
 ## Descrição do Projeto :capital_abcd:
@@ -22,7 +21,6 @@
 </p>
 
 <br>
----
 
 ---
 
