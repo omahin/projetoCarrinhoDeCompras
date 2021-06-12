@@ -6,7 +6,6 @@
 
 <br>
 
----
 ## Descrição do Projeto :capital_abcd:
 
 #### <p align="justify"> Meu primeiro projeto do curso de BackEnd da Reprograma 🚀, consolidando as aulas de Lógica Aplicada utilizando a linguagem Javascript. Foram solicitadas as especificações a seguir para o carrinho:
@@ -22,13 +21,9 @@
 
 <br>
 
----
-
 ## Exemplo de Implementação :checkered_flag:
 
 ![alt-text](https://raw.githubusercontent.com/omahin/Aula-05/master/img/projetocarrinhodecompras.gif)
-
----
 
 ## Desenvolvedora :crown:
 
